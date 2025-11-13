@@ -1,0 +1,22 @@
+.container {
+     display: flex;
+   }
+     h1 {
+       text-align: center;
+     }
+     .content{ 
+       background-color: #E6E6FA;
+  border: 5px solid #C0C0C0;
+  padding: 16px;
+  margin: 10px;
+     }
+     .foot{
+       text-align: center;
+       background-color: #A7C7E7;
+       color: white;
+     }
+     
+      .foot: hover{
+        background-color: white;
+        color:black;
+      }
